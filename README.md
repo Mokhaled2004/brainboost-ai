@@ -14,7 +14,7 @@
 
 <p align="center">
   <img
-    src="./hero-img.png"
+    src=".Readme/hero-img.png"
     alt="Project Banner"
     style="border-radius:20px; box-shadow: 0px 10px 30px rgba(0,0,0,0.2); max-width:80%;"
   />
