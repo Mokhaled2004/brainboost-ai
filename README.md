@@ -43,9 +43,9 @@ BrainBoost AI is an intelligent interview prep platform that generates **persona
 
 ## 🛠️ Tech Stack
 
-| Frontend                          | Backend                      | Database | AI         | Auth |
-| --------------------------------- | ---------------------------- | -------- | ---------- | ---- |
-| React, TailwindCSS, Framer Motion | Node.js, Express, TypeScript | MongoDB  | Gemini API | JWT  |
+| Frontend                          | Backend             | Database | AI         | Auth |
+| --------------------------------- | ------------------- | -------- | ---------- | ---- |
+| React, TailwindCSS, Framer Motion | Node.js, Express    | MongoDB  | Gemini API | JWT  |
 
 ---
 
